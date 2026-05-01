@@ -1,10 +1,4 @@
-/*
-Template Name: Krishna Temple
-File: Layout CSS
-Author: TemplatesOnWeb
-Author URI: https://www.templateonweb.com/
-Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
-*/
+
 body{
 font-family: 'Poppins', sans-serif;
 line-height: 1.6;
@@ -477,10 +471,8 @@ margin-top:5px;
 .main_1{
 z-index:5!important;  
   }
-/*********************header_end****************/
 
 
-/*********************common****************/
 .pages ul li{
  display:inline-block;
  }
@@ -693,9 +685,7 @@ background-color: #f74f22;
     background-position: center center;
     background-size: cover;
 }
-/*********************common_end****************/
 
-/*********************team****************/
 #team{
     background-image: url(../img/22.jpg);
     background-position: center center;
@@ -722,9 +712,7 @@ transition: 0.3s;
 top:14px;
 right:13%;
  }
-/*********************team_end****************/
 
-/*********************donate****************/
 .donate_2li1 .progress-bar {
     background: #f74f22;
     border-radius: 0;
@@ -735,9 +723,7 @@ right:13%;
     overflow: hidden;
     border-radius: 0;
 }
-/*********************donate_end****************/
 
-/*********************shop****************/
 .shop_1im1i1 ul li a{
 display:inline-block;
 box-shadow: 0px 10px 50px 0px rgb(53 82 99 / 9%);
@@ -762,9 +748,7 @@ display:none;
 display:block; 
 transition: 0.3s;
  }
-/*********************shop_end****************/
 
-/*********************footer****************/
 #footer_b{
 border-top:1px solid #063b7c; 
  }
@@ -804,7 +788,6 @@ top:-19%;
 #footer{
 padding-top:140px!important; 
  }
-/*********************footer_end****************/
 
 
 

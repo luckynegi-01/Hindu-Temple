@@ -1,12 +1,4 @@
-/*
-Template Name: Krishna Temple
-File: Layout CSS
-Author: TemplatesOnWeb
-Author URI: https://www.templateonweb.com/
-Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
-*/
 
-/*********************blog****************/
 .center_blog {
     background-image: url(../img/2.jpg);
     background-position: center center;
@@ -20,7 +12,6 @@ Licence: <a href="https://www.templateonweb.com/license">Website Template Licenc
 #blog_pg{
 padding-bottom:150px!important; 
  }
-/*********************blog_end****************/
 
 
 @media screen and (max-width : 767px){

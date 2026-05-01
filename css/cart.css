@@ -1,12 +1,4 @@
-/*
-Template Name: Krishna Temple
-File: Layout CSS
-Author: TemplatesOnWeb
-Author URI: https://www.templateonweb.com/
-Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
-*/
 
-/*********************cart****************/
 .btn_cross a{
 width:30px;
 height:30px;
@@ -34,7 +26,6 @@ padding-bottom:150px!important;
 #login{
 padding-bottom:150px!important; 
 }
-/*********************cart_end****************/
 
 
 @media screen and (max-width : 767px){

@@ -1,12 +1,4 @@
-/*
-Template Name: Krishna Temple
-File: Layout CSS
-Author: TemplatesOnWeb
-Author URI: https://www.templateonweb.com/
-Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
-*/
 
-/*********************checkout****************/
 .checkout_1r .drop_cart{
 margin-top:0!important;
 min-width:auto; 
@@ -19,7 +11,6 @@ min-width:auto;
 #checkout{
 padding-bottom:150px!important; 
 }
-/*********************checkout_end****************/
 
 
 @media screen and (max-width : 767px){
